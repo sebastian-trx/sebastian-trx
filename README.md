@@ -1,6 +1,6 @@
-# Hola 👋
+# Hola! 👋
 
-## Soy una persona apasionada por la programación 👨‍💻 y el deporte 🚴‍♀, cuento con gran motivación para seguir aprendiendo y perfeccionando mis habilidades. Me gusta trabajar en equipo, aportar ideas y recibir retroalimentación por parte de mis compañeros.
+## Soy full stack developer, apasionado por la programación 👨‍💻 y el deporte 🚴‍♀, cuento con gran motivación para seguir aprendiendo y perfeccionando mis habilidades. Me gusta trabajar en equipo, aportar ideas y recibir retroalimentación por parte de mis compañeros.
 
 ### __Tecnologías:__
 - `JavaScript` 
